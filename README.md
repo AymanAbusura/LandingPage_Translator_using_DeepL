@@ -1,5 +1,6 @@
 # 🌍 Landing Page Translator using DeepL API
 This project allows users to upload an HTML file and automatically translate its content into multiple languages using the DeepL Translation API. It's built with Node.js, Express, and a simple HTML frontend.
+<img width="1680" height="934" alt="Preview" src="https://github.com/user-attachments/assets/a09e7fe3-a7dc-45bd-842d-80c2b6fe5c0f" />
 
 ### 🚀 Features
 Upload and translate .html or .htm files
@@ -29,10 +30,12 @@ A valid DeepL API key
 git clone https://github.com/yourusername/landing-page-translator.git
 cd landing-page-translator
 ```
+
 2. Install dependencies:
 ```markdown
 npm install
 ```
+
 3. Set your DeepL API key:
 Open server.js and replace:
 ```markdown
@@ -40,8 +43,12 @@ const DEEPL_API_KEY = "your_actual_deepl_api_key_here";
 ```
 with your actual DeepL API key.
 ⚠️ Use https://api.deepl.com/v2 for Pro users or https://api-free.deepl.com/v2 for Free accounts.
+
 4. Start the server:
+```markdown
 node server.js
+```
+
 5. Access the app:
 Open your browser and navigate to:
 http://localhost:3000
