@@ -1,4 +1,4 @@
-### 🌍 Landing Page Translator using DeepL API
+# 🌍 Landing Page Translator using DeepL API
 This project allows users to upload an HTML file and automatically translate its content into multiple languages using the DeepL Translation API. It's built with Node.js, Express, and a simple HTML frontend.
 
 ### 🚀 Features
