@@ -8,7 +8,8 @@ Powered by DeepL API (supports document translation for better formatting)
 Download the translated file directly from the browser
 
 ### 📁 Project Structure
-<pre> ``` project-root/
+<pre>
+project-root/
 │
 ├── server.js             # Express server with DeepL integration
 ├── uploads/              # Temporary file uploads (auto-created by multer)
@@ -16,7 +17,7 @@ Download the translated file directly from the browser
 │   ├── index.html        # Frontend HTML interface
 │   └── styles.css        # Optional: Styling file
 └── README.md             # This file
-``` </pre>
+</pre>
 
 ### ⚙️ Prerequisites
 Node.js (v14+ recommended)
